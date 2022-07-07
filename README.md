@@ -1,2 +1,5 @@
 # System-of-Linear-Equation-Solver
-Descriptions are in folders 
+Gauss Elimination \
+LU Decomposition \
+Gauss-Seidel Method \
+Jacobi Method \
