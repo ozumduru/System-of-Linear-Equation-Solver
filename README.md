@@ -5,4 +5,3 @@ LU Decomposition \
 Gauss-Seidel Method \
 Jacobi Method \
 
-#gauss #LU #gauss-seidel #jacobi
